@@ -1,0 +1,76 @@
+DEAL ANALYSIS: Energy Management System - Energy Corp
+=======================================================
+
+Deal: Energy Corp - Energy Management Platform
+Rep: Thomas Brown
+Industry: Energy
+Value: $680,000
+Close: November 18, 2024
+Status: Closed Lost
+
+CHRONOLOGY
+----------
+
+August 5, 2024 - Initial Meeting
+- Conference connection at energy industry event
+- Meeting with Energy Director
+- Discussed energy management needs
+- Sent proposal and technical documentation
+- Sentiment: Positive
+- Outcome: Initial interest
+
+August 19, 2024 - Technical Review
+- Technical evaluation session
+- Energy-specific requirements discussed
+- Custom features needed for energy sector
+- Sentiment: Neutral
+- Outcome: Customization needs identified
+
+September 2, 2024 - Pricing Discussion
+- Quote: $680,000
+- Budget: $550,000
+- Significant gap: $130,000 (19%)
+- Sentiment: Negative
+- Outcome: Pricing gap identified
+
+September 16, 2024 - Customization Requirements
+- Customization requirements detailed
+- Additional $100,000 estimated
+- Total: $780,000
+- Budget concerns increased
+- Sentiment: Negative
+- Outcome: Total cost too high
+
+September 30, 2024 - Timeline Discussion
+- Implementation: 10 months proposed
+- Customer needed 7 months
+- Timeline conflict
+- Sentiment: Negative
+- Outcome: Timeline mismatch
+
+October 14, 2024 - Competitor Activity
+- Competitor: EnergyPro Management
+- Better energy focus mentioned
+- Lower price mentioned
+- Sentiment: Negative
+- Outcome: Competitive threat
+
+October 28, 2024 - Final Attempt
+- Final proposal: $620,000
+- Still above budget
+- Sentiment: Negative
+- Outcome: Final proposal rejected
+
+November 18, 2024 - Lost
+- Lost to EnergyPro Management
+- Reasons: Lower price ($580,000), better energy features, included customizations, faster timeline (7 months)
+- Sentiment: Negative
+- Outcome: Closed Lost
+
+BLOCKERS
+--------
+1. Price: $40,000 gap (7%)
+2. Customization costs: Additional $100K
+3. Timeline: 10 months vs 7 months needed
+4. Competitive pressure: Competitor had better energy expertise
+

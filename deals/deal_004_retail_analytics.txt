@@ -1,0 +1,109 @@
+LOST DEAL ANALYSIS: Retail Analytics Platform - MegaRetail Corp
+=================================================================
+
+Deal: MegaRetail Corp - Advanced Analytics Solution
+Owner: David Kim
+Industry: Retail
+Value: $240,000 ARR
+Close Date: June 8, 2024
+Stage: Closed Lost
+
+EVENT CHRONOLOGY
+----------------
+
+March 5, 2024 - Initial Discovery Call
+- Inbound lead from website contact form
+- Discovery call with VP of Analytics
+- Discussed current analytics challenges and limitations
+- Identified need for real-time dashboards and predictive analytics
+- Sent product information and case studies
+- Sentiment: Positive
+- Outcome: Strong initial interest
+
+March 12, 2024 - Technical Evaluation Meeting
+- Technical evaluation meeting with analytics team
+- Demonstrated analytics capabilities and real-time features
+- Customer very interested in predictive analytics features
+- Requested proof of concept (POC) with their sample data
+- Agreed to 2-week POC period
+- Sentiment: Positive
+- Outcome: POC approved
+
+March 19, 2024 - POC Kickoff
+- POC started with customer's sample retail dataset
+- Initial results very positive
+- Customer satisfied with predictive analytics accuracy
+- Customer requested additional features during POC
+- POC scope expanded beyond original agreement
+- Sentiment: Neutral
+- Outcome: POC progressing but scope expanding
+
+March 26, 2024 - POC Results Review
+- POC completed successfully
+- Customer very satisfied with results
+- Requested pricing proposal
+- Sent initial quote: $240,000 ARR
+- Customer budget: $180,000 ARR
+- Sentiment: Negative (pricing gap)
+- Outcome: Significant pricing gap identified
+
+April 2, 2024 - Pricing Negotiation Round 1
+- Negotiated pricing down to $210,000 ARR
+- Customer still said too high
+- Requested $190,000 ARR
+- We couldn't go below $200,000 ARR
+- Pricing stalemate
+- Sentiment: Negative
+- Outcome: Pricing negotiation stalled
+
+April 9, 2024 - Feature Requests Discussion
+- Customer requested additional features not in base package
+- Custom reporting module requested
+- Advanced data visualization features requested
+- We quoted additional $35,000 for custom features
+- Customer said not in budget
+- Sentiment: Negative
+- Outcome: Feature requirements vs budget conflict
+
+April 16, 2024 - Competitor Mentioned
+- Customer evaluating alternative vendor
+- Competitor: DataViz Pro Analytics
+- Competitor offering lower price and included requested features
+- Customer requested best and final offer
+- Submitted final: $200,000 ARR with standard features
+- Sentiment: Negative
+- Outcome: Competitive pressure high
+
+April 23, 2024 - Decision Delay
+- Customer said need time to evaluate both options
+- Mentioned budget approval process taking longer
+- Follow-up scheduled for early May
+- Sentiment: Neutral
+- Outcome: Decision delayed
+
+May 7, 2024 - Final Follow-up
+- Follow-up call made
+- Customer said still evaluating both solutions
+- No clear timeline provided
+- Sentiment: Neutral
+- Outcome: Decision still pending
+
+June 8, 2024 - Deal Lost
+- Received notification: Lost to DataViz Pro Analytics
+- Reasons: Lower price ($185,000 vs $200,000), included requested features at base price
+- Sentiment: Negative
+- Outcome: Closed Lost
+
+BLOCKERS
+--------
+1. Pricing gap: $20,000 final difference (10%)
+2. Feature requirements: Custom features not in budget
+3. Competitive pressure: Competitor had better value proposition
+4. Budget constraints: Strict $180K budget limit
+
+COMPETITOR
+----------
+DataViz Pro Analytics
+- Pricing: $185,000 ARR (8% lower)
+- Features: Included custom reporting at base price
+- Advantage: Better value for requested features

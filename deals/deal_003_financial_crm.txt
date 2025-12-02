@@ -1,0 +1,147 @@
+DEAL POST-MORTEM: Financial Services CRM - Global Finance Corp
+==============================================================
+
+Deal: Global Finance Corp - Enterprise CRM Platform
+Sales Rep: Jennifer Martinez
+Industry: Financial Services
+Deal Value: $650,000 ARR
+Closed: May 15, 2024
+Status: Lost to Competitor
+
+CHRONOLOGICAL EVENT TIMELINE
+-----------------------------
+
+Day 1 (February 5, 2024) - Initial Contact
+- Warm introduction through industry conference networking
+- Initial discovery call with Head of Sales Operations
+- Discussed current CRM limitations and pain points
+- Identified need for better lead management and reporting
+- Sent initial proposal and demo access
+- Sentiment: Very Positive
+- Notes: Strong chemistry, immediate interest expressed
+
+Day 10 (February 14, 2024) - Product Demonstration
+- Comprehensive product demonstration to 10 stakeholders
+- Attendees: Sales, Marketing, Operations, IT teams
+- Demo went very well, received positive feedback
+- Customer impressed with advanced reporting capabilities
+- Requested custom demo for their specific workflows
+- Sentiment: Positive
+- Notes: High engagement, multiple stakeholders interested
+
+Day 20 (February 24, 2024) - Custom Demo Delivery
+- Customized demo built specifically for their workflows
+- Showed integration with Salesforce (they use SFDC currently)
+- Demonstrated advanced reporting and analytics features
+- Technical team very impressed with capabilities
+- Sentiment: Positive
+- Notes: Technical validation successful
+
+Day 30 (March 5, 2024) - Pricing Discussion Begins
+- Initial pricing: $650,000 ARR
+- Customer budget: $500,000 ARR
+- Gap identified: $150,000 (23% difference)
+- Customer requested discount
+- Proposed $600,000 ARR
+- Sentiment: Neutral
+- Notes: Pricing negotiation started
+
+Day 40 (March 15, 2024) - Integration Concerns Raised
+- Technical integration discussion
+- Customer concerned about Salesforce integration complexity
+- Requested dedicated integration support team
+- We offered standard support, not dedicated team
+- Integration support became major concern
+- Sentiment: Negative
+- Notes: Integration support gap identified
+
+Day 50 (March 25, 2024) - Competitor Enters Picture
+- Customer mentioned evaluating alternative solution
+- Competitor: SalesForce Pro (different from their current SFDC)
+- Competitor offering better native Salesforce integration
+- Customer requested detailed comparison matrix
+- Sentiment: Negative
+- Notes: Competitive threat emerged
+
+Day 60 (April 4, 2024) - Best and Final Offer Requested
+- Customer requested best and final offer
+- Submitted: $550,000 ARR with dedicated integration support
+- Customer said still evaluating both options
+- Sentiment: Neutral
+- Notes: Final proposal submitted
+
+Day 70 (April 14, 2024) - Decision Delay
+- Follow-up call scheduled but postponed twice by customer
+- Finally connected after 5 days
+- Customer said decision delayed due to internal reorganization
+- Mentioned new stakeholders need to review
+- Sentiment: Neutral
+- Notes: Decision process unclear
+
+Day 80 (April 24, 2024) - Final Follow-up Attempt
+- Final email sent requesting decision timeline
+- No response for 8 days
+- Called, left voicemail
+- No callback received
+- Sentiment: Negative
+- Notes: Communication breakdown
+
+May 15, 2024 - Lost Notification Received
+- Received email: Deal lost to SalesForce Pro
+- Reasons provided:
+  1. Better native Salesforce integration (built specifically for SF ecosystem)
+  2. Lower price ($520,000 vs $550,000)
+  3. Dedicated integration team included at base price
+  4. Faster implementation timeline (2 months vs 3 months)
+  5. Better fit for Salesforce-centric organization
+- Sentiment: Very Negative
+- Outcome: Closed Lost
+
+ROOT CAUSES
+-----------
+1. Integration support: Competitor offered dedicated team, we offered standard support
+2. Price: 6% higher than competitor ($550K vs $520K)
+3. Timeline: 3 months vs competitor's 2 months
+4. Native integration: Competitor had native Salesforce integration, we had API-based
+5. Communication: Lost momentum in final weeks with delayed responses
+
+COMPETITIVE INTELLIGENCE
+------------------------
+Competitor: SalesForce Pro
+- Pricing: $520,000 ARR (6% lower)
+- Integration: Native Salesforce integration (not API-based)
+- Support: Dedicated integration team included
+- Timeline: 2 months implementation
+- Advantage: Built specifically for Salesforce ecosystem
+- Our disadvantage: API-based integration more complex
+
+MEETING NOTES
+-------------
+- Total meetings: 8 (discovery, demo x2, pricing x2, integration, best/final, follow-up)
+- Key stakeholders: Head of Sales Ops, CTO, VP Sales, Procurement
+- Decision makers: CTO and VP Sales (limited engagement after initial meetings)
+
+NEGOTIATION TIMELINE
+--------------------
+- Initial quote: $650,000 ARR (Mar 5)
+- First counter: $600,000 ARR (Mar 5)
+- Second counter: $550,000 ARR with dedicated support (Apr 4)
+- Customer budget: $500,000 ARR
+- Competitor: $520,000 ARR
+- Final gap: $30,000 (6%) but customer chose competitor for integration benefits
+
+DELIVERY PLANNING
+-----------------
+- Proposed timeline: 3 months implementation
+- Customer requirement: 2 months preferred
+- Gap: 1 month
+- Competitor offered 2-month guaranteed timeline
+- We could not guarantee 2 months without risk
+
+COMMUNICATION QUALITY
+---------------------
+- Initial: Excellent (warm intro helped)
+- Mid-process: Good, regular follow-ups
+- Final weeks: Poor (delayed responses, communication breakdown)
+- Written confirmations: Some integration discussions were verbal only
+

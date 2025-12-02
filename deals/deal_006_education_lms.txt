@@ -1,0 +1,88 @@
+LOST DEAL: Education Learning Management Platform - University System
+=======================================================================
+
+Deal: State University System - Learning Management Platform
+Owner: Lisa Anderson
+Industry: Education
+Value: $420,000
+Close Date: August 20, 2024
+Stage: Closed Lost
+
+CHRONOLOGICAL EVENTS
+--------------------
+
+May 10, 2024 - Discovery Call
+- Initial contact through referral from existing client
+- Discovery call with IT Director
+- Discussed LMS needs for multi-campus system
+- Sent comprehensive information package
+- Sentiment: Positive
+- Outcome: Initial interest expressed
+
+May 17, 2024 - Stakeholder Meeting
+- Meeting with faculty representatives and IT team
+- Multiple stakeholders with varied requirements
+- Consensus difficult to achieve
+- Different departments had different needs
+- Sentiment: Neutral
+- Outcome: Requirements complex, multiple stakeholders
+
+May 31, 2024 - Product Demo Session
+- Product demonstration to stakeholders
+- Mixed feedback from different departments
+- Some features liked, others not meeting needs
+- Requested significant customizations
+- Sentiment: Neutral
+- Outcome: Mixed reception, customization needs
+
+June 14, 2024 - Pricing Discussion
+- Quote: $420,000
+- Budget: $320,000
+- Gap: $100,000 (24% difference)
+- Negotiation started
+- Sentiment: Negative
+- Outcome: Significant budget gap
+
+June 28, 2024 - Customization Discussion
+- Customization requirements detailed
+- Additional $70,000 estimated for customizations
+- Total cost now $490,000
+- Budget concerns increased significantly
+- Sentiment: Negative
+- Outcome: Total cost too high
+
+July 12, 2024 - Timeline Discussion
+- Implementation timeline: 6 months
+- Customer needed 4 months for fall semester
+- Timeline mismatch
+- Sentiment: Negative
+- Outcome: Timeline became blocker
+
+July 26, 2024 - Competitor Mentioned
+- Competitor: EduTech Learning Solutions
+- Better education focus mentioned
+- Lower price mentioned
+- Sentiment: Negative
+- Outcome: Competitive threat
+
+August 9, 2024 - Final Attempt
+- Final proposal: $380,000
+- Still above budget
+- Customer declined
+- Sentiment: Negative
+- Outcome: Final proposal rejected
+
+August 20, 2024 - Lost
+- Lost to EduTech Learning Solutions
+- Reasons: Lower price ($320,000), better education features, faster timeline (4 months)
+- Sentiment: Negative
+- Outcome: Closed Lost
+
+BLOCKERS
+--------
+1. Budget: $60,000 gap (19%)
+2. Timeline: 6 months vs 4 months needed
+3. Stakeholder alignment: Multiple departments with different needs
+4. Competitive pressure: Competitor had better education focus
+5. Customization costs: Additional $70K
+

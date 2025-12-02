@@ -1,0 +1,81 @@
+DEAL POST-MORTEM: Telecom Network Management - Telecom Corp
+=============================================================
+
+Deal: Telecom Corp - Network Management System
+Rep: James Wilson
+Industry: Telecommunications
+Value: $850,000
+Close: September 25, 2024
+Status: Closed Lost
+
+TIMELINE
+--------
+
+June 3, 2024 - RFP Received
+- RFP received through procurement portal
+- Responded to RFP with comprehensive proposal
+- Initial presentation scheduled
+- Sentiment: Positive
+- Outcome: RFP response submitted
+
+June 17, 2024 - RFP Presentation
+- RFP presentation delivered to technical team
+- Technical team present and engaged
+- Questions answered comprehensively
+- Sentiment: Positive
+- Outcome: Presentation well-received
+
+July 1, 2024 - Technical Evaluation
+- Technical deep dive session
+- Network architecture discussion
+- Integration requirements detailed
+- Sentiment: Neutral
+- Outcome: Technical evaluation in progress
+
+July 15, 2024 - Pricing Submitted
+- Proposal: $850,000
+- Customer reviewing proposal
+- Sentiment: Neutral
+- Outcome: Pricing under review
+
+July 29, 2024 - Pricing Concerns Raised
+- Customer said price too high
+- Budget: $700,000
+- Negotiation needed
+- Sentiment: Negative
+- Outcome: Pricing gap identified
+
+August 12, 2024 - Pricing Negotiation
+- Negotiated to $800,000
+- Still above budget
+- Customer requested $750,000
+- Sentiment: Negative
+- Outcome: Negotiation ongoing
+
+August 26, 2024 - Additional Technical Requirements
+- Additional technical requirements identified
+- Custom features needed for telecom-specific use cases
+- Additional cost: $120,000
+- Total now $920,000
+- Sentiment: Very Negative
+- Outcome: Total cost increased significantly
+
+September 9, 2024 - Competitor Activity
+- Competitor: NetManage Pro
+- Better telecom focus mentioned
+- Lower price mentioned
+- Sentiment: Negative
+- Outcome: Competitive pressure
+
+September 25, 2024 - Lost
+- Lost to NetManage Pro
+- Reasons: Lower price ($750,000), better telecom features, included customizations
+- Sentiment: Negative
+- Outcome: Closed Lost
+
+BLOCKERS
+--------
+1. Price: $50,000 difference (7%)
+2. Technical requirements: Additional $120K for customizations
+3. Competitive pressure: Competitor had better telecom expertise
+4. Total cost: $920K vs competitor's $750K

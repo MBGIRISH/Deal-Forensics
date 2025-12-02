@@ -1,0 +1,88 @@
+DEAL FORENSICS: Manufacturing ERP Integration - Industrial Manufacturing Co
+============================================================================
+
+Deal: Industrial Manufacturing Co - ERP System Integration
+Rep: Robert Williams
+Industry: Manufacturing
+Value: $750,000
+Close: July 22, 2024
+Status: Closed Lost
+
+TIMELINE
+--------
+
+April 5, 2024 - Initial Meeting
+- Trade show connection at manufacturing expo
+- Initial meeting with Operations Director
+- Discussed ERP integration needs
+- Sent comprehensive proposal
+- Sentiment: Positive
+- Outcome: Strong initial interest
+
+April 18, 2024 - Requirements Review Session
+- Requirements gathering session with operations team
+- Identified 25+ integration points needed
+- Complex manufacturing workflows discussed
+- Customization needs identified early
+- Sentiment: Neutral
+- Outcome: Requirements more complex than expected
+
+May 2, 2024 - Technical Deep Dive
+- Technical evaluation with IT and operations teams
+- Demonstrated ERP capabilities and integration architecture
+- Customer raised customization concerns
+- Requested detailed customization plan and timeline
+- Sentiment: Neutral
+- Outcome: Customization requirements detailed
+
+May 16, 2024 - Pricing Discussion
+- Initial quote: $750,000
+- Customer budget: $600,000
+- Gap: $150,000 (20% difference)
+- Negotiated to $700,000
+- Still above budget
+- Sentiment: Negative
+- Outcome: Pricing gap significant
+
+May 30, 2024 - Customization Requirements Detailed
+- Customization requirements fully detailed
+- Estimated additional $90,000 for customizations
+- Total cost now $790,000
+- Customer concerned about total cost
+- Requested package deal with discounts
+- Sentiment: Negative
+- Outcome: Total cost concerns increased
+
+June 13, 2024 - Delivery Timeline Discussion
+- Discussed implementation timeline
+- Proposed 12-month phased rollout
+- Customer needed 8-month aggressive timeline
+- Timeline conflict identified
+- Sentiment: Negative
+- Outcome: Timeline became major blocker
+
+June 27, 2024 - Competitor Activity
+- Competitor: ManuTech ERP Solutions
+- Lower price and faster timeline mentioned
+- Customer evaluating both options
+- Sentiment: Negative
+- Outcome: Competitive pressure
+
+July 11, 2024 - Final Proposal
+- Best and final: $680,000 with 10-month timeline
+- Customer said still evaluating
+- Sentiment: Neutral
+- Outcome: Final proposal submitted
+
+July 22, 2024 - Lost
+- Lost to ManuTech ERP Solutions
+- Reasons: Lower cost ($620,000), faster implementation (8 months), better manufacturing focus
+- Sentiment: Negative
+- Outcome: Closed Lost
+
+BLOCKERS
+--------
+1. Price: $60,000 difference (9%)
+2. Timeline: 10 months vs 8 months required
+3. Customization costs: Additional $90K
+4. Competitive pressure: Competitor had better manufacturing expertise

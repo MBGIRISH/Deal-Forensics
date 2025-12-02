@@ -1,0 +1,183 @@
+DEAL FORENSICS: Consulting Firm CRM - Strategic Consulting Group
+================================================================
+
+Deal: Strategic Consulting Group - CRM Platform for Consulting
+Owner: Patricia Lee
+Industry: Professional Services / Consulting
+Value: $320,000 ARR
+Close Date: December 10, 2024
+Stage: Closed Lost
+
+DETAILED TIMELINE
+-----------------
+
+September 10, 2024 - Initial Discovery Call
+- Referral from existing client (strong relationship)
+- Discovery call with Managing Partner
+- Discussed CRM needs for consulting firm
+- Unique requirements for project-based work identified
+- Sent initial information and case studies
+- Sentiment: Very Positive
+- Notes: Strong referral, high trust, excellent chemistry
+
+September 17, 2024 - Requirements Gathering Session
+- Requirements gathering with 3 partners
+- Discussed project management integration needs
+- Need for client portal functionality
+- Time tracking and billing integration requirements
+- Sentiment: Positive
+- Notes: Requirements well-defined, clear needs
+
+September 24, 2024 - Product Demonstration
+- Comprehensive demonstration to partners and operations team
+- Showed project management features
+- Demonstrated client portal capabilities
+- Partners very impressed with functionality
+- Requested custom demo for their specific consulting workflows
+- Sentiment: Very Positive
+- Notes: High engagement, multiple stakeholders impressed
+
+October 1, 2024 - Custom Demo Delivery
+- Customized demo built specifically for consulting workflows
+- Showed project-based work management
+- Addressed all key requirements comprehensively
+- Extremely positive feedback received
+- Sentiment: Very Positive
+- Notes: Customization well-received, strong product fit
+
+October 8, 2024 - Pricing Discussion Begins
+- Initial pricing: $320,000 ARR
+- Customer budget: $250,000 ARR
+- Gap identified: $70,000 (22% difference)
+- Customer requested discount
+- Proposed $290,000 ARR
+- Sentiment: Neutral
+- Notes: Pricing negotiation started, gap significant
+
+October 15, 2024 - Feature Gap Identified
+- Customer requested additional feature
+- Advanced reporting and analytics module
+- Quoted additional $40,000 for advanced reporting
+- Customer said not in budget
+- Feature gap became major concern
+- Sentiment: Negative
+- Notes: Feature requirements expanding, budget constraints
+
+October 22, 2024 - Timeline Discussion
+- Implementation timeline: 4 months proposed
+- Customer needed 3 months for Q1 rollout
+- Discussed accelerated timeline options
+- Proposed 3.5 months with additional dedicated resources
+- Customer wanted guaranteed 3-month timeline
+- Sentiment: Negative
+- Notes: Timeline became major sticking point
+
+October 29, 2024 - Competitor Mentioned
+- Customer evaluating alternative solution
+- Competitor: ConsultCRM Pro
+- Competitor offering lower price and faster timeline
+- Customer requested best and final offer
+- Sentiment: Negative
+- Notes: Competitive pressure mounting
+
+November 5, 2024 - Final Proposal Submitted
+- Best and final: $270,000 ARR with 3.5-month timeline
+- Included standard reporting (not advanced module)
+- Customer said still evaluating both options
+- Sentiment: Neutral
+- Notes: Final proposal submitted, competitive situation
+
+November 12, 2024 - Follow-up Call
+- Follow-up call made
+- Customer said decision delayed
+- Mentioned partner review process taking longer
+- No clear decision timeline provided
+- Sentiment: Neutral
+- Notes: Decision process unclear, momentum slowing
+
+November 26, 2024 - Final Communication Attempt
+- Final email sent requesting decision update
+- No response for 10 days
+- Called, left detailed voicemail
+- No callback received
+- Sentiment: Negative
+- Notes: Communication breakdown, deal at high risk
+
+December 10, 2024 - Lost Notification Received
+- Received formal email: Deal lost to ConsultCRM Pro
+- Primary reasons provided:
+  1. Lower pricing ($250,000 vs $270,000) - 7% difference
+  2. Faster guaranteed timeline (3 months with penalty clause)
+  3. Advanced reporting included at base price (we quoted $40K extra)
+  4. Better consulting industry references and case studies
+  5. More consulting-specific features out of the box
+- Sentiment: Very Negative
+- Outcome: Closed Lost
+
+KEY BLOCKERS IDENTIFIED
+-----------------------
+1. Pricing: 7% higher than competitor ($270K vs $250K)
+2. Timeline: Could not guarantee 3 months (proposed 3.5 months)
+3. Features: Advanced reporting not included at base price
+4. Competitive pressure: Competitor had better consulting focus
+5. Communication: Lost momentum in final weeks with delayed responses
+6. Value proposition: Competitor offered better value (features + price)
+
+COMPETITIVE INTELLIGENCE
+------------------------
+Competitor: ConsultCRM Pro
+- Pricing: $250,000 ARR (7% lower)
+- Timeline: 3 months guaranteed with penalty clause
+- Features: Advanced reporting included at base price
+- Industry focus: Built specifically for consulting firms
+- References: Strong consulting industry portfolio
+- Advantage: Better value proposition (features + price + timeline)
+
+COMMUNICATION QUALITY ANALYSIS
+-------------------------------
+- Initial communication: Excellent (referral helped establish trust)
+- Mid-process: Good, regular follow-ups and engagement
+- Final weeks: Poor (10-day response delay, communication breakdown)
+- Response times: Generally good until final 3 weeks
+- Executive engagement: Strong initially, faded in final weeks
+- Written confirmations: Some timeline discussions were verbal only
+
+MEETING LOGS SUMMARY
+---------------------
+- Total meetings: 9 (discovery, requirements, demo x2, pricing x2, timeline, best/final, follow-up)
+- Key stakeholders: 3 Managing Partners, Operations Director, IT Manager
+- Decision makers: Managing Partners (limited direct engagement after initial meetings)
+- Meeting quality: High initially, declined in final weeks
+
+NEGOTIATION TIMELINE DETAILS
+---------------------------
+- Initial quote: $320,000 ARR (Oct 8)
+- First counter: $290,000 ARR (Oct 8)
+- Second counter: $270,000 ARR (Nov 5)
+- Customer budget: $250,000 ARR
+- Competitor price: $250,000 ARR
+- Final gap: $20,000 (7%) but customer chose competitor for better value
+
+DELIVERY PLANNING ISSUES
+-------------------------
+- Proposed timeline: 4 months standard implementation
+- Customer requirement: 3 months for Q1 rollout
+- Gap: 1 month difference
+- Customer requested guaranteed timeline with penalty clause
+- We could not guarantee 3 months without significant risk
+- Competitor offered 3-month guarantee with penalty clause
+
+ESCALATION EVENTS
+------------------
+- Pricing gap identified (Oct 8)
+- Feature requirements expanding (Oct 15)
+- Timeline concerns raised (Oct 22)
+- Competitor mentioned (Oct 29)
+- Final proposal submitted (Nov 5)
+- Decision delay (Nov 12)
+- Communication breakdown (Nov 26)
+
+FINAL DECISION DATE
+-------------------
+December 10, 2024 - Deal officially closed lost to ConsultCRM Pro
+

@@ -1,0 +1,33 @@
+[
+  {
+    "deal_name": "Global Logistics Platform",
+    "industry": "Transportation",
+    "value": 420000,
+    "primary_loss_reason": "Security concerns",
+    "timeline_score": 5.5,
+    "competitor_risk": 0.8,
+    "pricing_delta": 0.3,
+    "notes": "Lost to incumbent after delayed security review."
+  },
+  {
+    "deal_name": "FinServe Cloud Migration",
+    "industry": "Financial Services",
+    "value": 650000,
+    "primary_loss_reason": "Pricing",
+    "timeline_score": 6.8,
+    "competitor_risk": 0.6,
+    "pricing_delta": 0.7,
+    "notes": "Competitor offered aggressive multi-year discounting."
+  },
+  {
+    "deal_name": "Retail Analytics Expansion",
+    "industry": "Retail",
+    "value": 250000,
+    "primary_loss_reason": "Missing features",
+    "timeline_score": 7.2,
+    "competitor_risk": 0.4,
+    "pricing_delta": 0.2,
+    "notes": "Needed advanced SKU-level segmentation."
+  }
+]
+
