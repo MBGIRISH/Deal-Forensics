@@ -11,7 +11,11 @@ from __future__ import annotations
 
 from typing import Iterable, List
 
-from langchain_community.embeddings import HuggingFaceEmbeddings
+try:
+    from langchain_huggingface import HuggingFaceEmbeddings
+except ImportError:
+    # Fallback to deprecated import for backward compatibility
+    from langchain_community.embeddings import HuggingFaceEmbeddings
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from core.cache import EmbeddingCache

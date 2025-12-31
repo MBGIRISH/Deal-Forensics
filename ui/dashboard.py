@@ -128,7 +128,7 @@ if uploaded_file is None:
 analyze_button = st.button(
     "Analyze Deal",
     type="primary",
-    use_container_width=True,
+    width='stretch',
     disabled=(uploaded_file is None)
 )
 
@@ -260,7 +260,7 @@ if analysis_result:
                 color_continuous_scale="Reds"
             )
             fig_drivers.update_layout(showlegend=False, height=300)
-            st.plotly_chart(fig_drivers, use_container_width=True)
+            st.plotly_chart(fig_drivers, width='stretch')
 
     st.divider()
     st.subheader("📅 Timeline Visualization")
@@ -333,7 +333,7 @@ if analysis_result:
         )
         fig_timeline.update_yaxes(autorange="reversed")
         fig_timeline.update_layout(height=400)
-        st.plotly_chart(fig_timeline, use_container_width=True)
+        st.plotly_chart(fig_timeline, width='stretch')
         
         # Sentiment distribution
         sentiment_counts = df_timeline["sentiment"].value_counts()
@@ -416,7 +416,7 @@ if analysis_result:
                 color_continuous_scale="Blues"
             )
             sim_fig.update_layout(height=300, showlegend=False)
-            st.plotly_chart(sim_fig, use_container_width=True)
+            st.plotly_chart(sim_fig, width='stretch')
             
             # Risk Distribution Pie Chart
             if len(similar) > 0:
@@ -430,7 +430,7 @@ if analysis_result:
                         names="Risk Factor",
                         title="Top Risk Factors Distribution"
                     )
-                    st.plotly_chart(risk_fig, use_container_width=True)
+                    st.plotly_chart(risk_fig, width='stretch')
         
         # Common Patterns
         patterns = comparative.get("common_patterns", [])
@@ -458,7 +458,7 @@ if analysis_result:
         table_df = pd.DataFrame(comparative.get("comparative_table", []))
         if not table_df.empty:
             st.markdown("**Comparative Metrics Table**")
-            st.dataframe(table_df, use_container_width=True)
+            st.dataframe(table_df, width='stretch')
         
         # Insights Summary
         insights = comparative.get("insights_summary", "")
@@ -556,7 +556,7 @@ if analysis_result:
         data=analysis_result["report"],
         file_name="deal_forensics_report.pdf",
         mime="application/pdf",
-        use_container_width=True,
+        width='stretch',
     )
 
     st.divider()

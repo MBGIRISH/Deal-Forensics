@@ -154,7 +154,7 @@ class ReportBuilder:
         pdf.set_text_color(*self.colors["text"])
 
     def _generate_title_page(self, pdf: FPDF) -> None:
-        """Generate title page."""
+        """Generate title page with author information."""
         pdf.add_page()
         pdf.set_font("Helvetica", "B", 28)
         pdf.set_text_color(*self.colors["header"])
@@ -166,6 +166,15 @@ class ReportBuilder:
         pdf.cell(0, 10, f"Generated: {datetime.utcnow().strftime('%B %d, %Y at %H:%M UTC')}", ln=True, align="C")
         pdf.ln(5)
         pdf.cell(0, 10, "Version 1.0", ln=True, align="C")
+        pdf.ln(10)
+        
+        pdf.set_font("Helvetica", "I", 12)
+        pdf.set_text_color(*self.colors["text"])
+        pdf.cell(0, 10, "Author: M B GIRISH", ln=True, align="C")
+        pdf.ln(3)
+        pdf.cell(0, 10, "Email: mbgirish2004@gmail.com", ln=True, align="C")
+        pdf.ln(3)
+        pdf.cell(0, 10, "December 2025", ln=True, align="C")
         pdf.ln(20)
 
     def _generate_executive_summary(self, pdf: FPDF, analysis: Dict[str, Any]) -> None:
@@ -627,7 +636,7 @@ class ReportBuilder:
         pdf.set_y(-15)
         pdf.set_font("Helvetica", "I", 8)
         pdf.set_text_color(*self.colors["text"])
-        pdf.cell(0, 10, f"Page {pdf.page_no()}", 0, 0, "C")
+        pdf.cell(0, 10, f"Page {pdf.page_no()} | Deal Forensics AI by M B GIRISH | December 2025", 0, 0, "C")
         
         # Generate PDF bytes
         pdf_bytes = pdf.output(dest="S")
